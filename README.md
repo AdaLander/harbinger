@@ -2,5 +2,5 @@
 
 ...
 
-Great things are coming soon > public beta start on 29 October 2021
+Great things are coming soon > public beta starts on 5 November 2021
 ...
